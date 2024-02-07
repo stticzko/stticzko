@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm sttikoo</h1>
 <h3 align="center">A passionate frontend developer💻</h3>
-<img algin="right" width="400px" src="https://cdn.discordapp.com/avatars/923549433977782312/749c03a02c80426a4a1377892d5e4276.png?size=1024" alt="sttikoo">
 
 
 - 🔭 I’m currently working on [shoppay](soon)
