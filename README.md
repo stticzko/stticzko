@@ -15,7 +15,7 @@
 
   <p>📫 How to reach me: <a href="mailto:sttikooziom@gmail.com">sttikooziom@gmail.com</a></p>
 
-  <h2>Languages and Tools</h2>
+  <h2>Languages and Frameworks</h2>
 
   <p>
     <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5" />
@@ -25,5 +25,7 @@
     <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL" alt="MySQL" />
     <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" />
     <img src="https://img.shields.io/badge/-C++-000?&logo=C%2B%2B" alt="C++" />
+    <img src="https://img.shields.io/badge/-Lua-000?&logo=Lua" alt="Lua" />
   </p>
+
 </div>
