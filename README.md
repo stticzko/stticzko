@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, I'm a Frontend Developer</h1>
 
-  <p>I’m currently working on <a href="https://shoppay.com">ShopPay</a></p>
+  <p>I’m currently working on <a href="https://cloudguard.pl/">CloudGuard</a></p>
 
   <p>🌱 I’m currently learning Angular</p>
 
