@@ -9,7 +9,7 @@
 
   <p>👨‍💻 My page: <a href="https://sttikoo.pl/">https://sttikoo.pl/</a></p>
 
-  <p>💼 My Discord server: <a href="https://discord.gg/devhub">DevHub</a></p>
+  <p>💼 My Discord server: <a href="https://discord.com/invite/sCVS88QuFB">CloudGuard</a></p>
 
   <p>💬 Ask me about React, JavaScript, Lua</p>
 
