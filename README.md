@@ -1,7 +1,7 @@
 <div align="center">
   <h1>I'm a Frontend Developer</h1>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlwd2Z6a2lkYnluOWh3cjRjNWF4cTVpb2hsdjZ0dTFpNGQ5Nnl4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.webp" alt="" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlwd2Z6a2lkYnluOWh3cjRjNWF4cTVpb2hsdjZ0dTFpNGQ5Nnl4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt="" />
 
   <h2>Languages and Frameworks</h2>
 
