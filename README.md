@@ -1,19 +1,7 @@
 <div align="center">
-  <h1>Hi there 👋, I'm a Frontend Developer</h1>
+  <h1>I'm a Frontend Developer</h1>
 
-  <p>I’m currently working on <a href="https://cloudguard.pl/">CloudGuard</a></p>
-
-  <p>🌱 I’m currently learning Angular</p>
-
-  <p>🤝 I’m looking for help with Angular</p>
-
-  <p>👨‍💻 My page: <a href="https://sttikoo.pl/">https://sttikoo.pl/</a></p>
-
-  <p>💼 My Discord server: <a href="https://discord.com/invite/sCVS88QuFB">CloudGuard</a></p>
-
-  <p>💬 Ask me about React, JavaScript, Lua</p>
-
-  <p>📫 How to reach me: <a href="mailto:sttikooziom@gmail.com">sttikooziom@gmail.com</a></p>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlwd2Z6a2lkYnluOWh3cjRjNWF4cTVpb2hsdjZ0dTFpNGQ5Nnl4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.webp" alt="" />
 
   <h2>Languages and Frameworks</h2>
 
