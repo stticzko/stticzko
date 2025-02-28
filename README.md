@@ -5,19 +5,31 @@
 
   <h2>Technologies & Frameworks</h2>
 
-<p>
-    <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5" />
+  <p>
+    <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26" alt="HTML5" />
     <img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6" alt="CSS3" />
-    <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React" />
-    <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL" alt="MySQL" />
-    <img src="https://img.shields.io/badge/-Electron-000?&logo=Electron" alt="Electron" />
-    <img src="https://img.shields.io/badge/-Flutter-000?&logo=Flutter" alt="Flutter" />
-    <img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js" alt="Node.js" />
-    <img src="https://img.shields.io/badge/-Lua-000?&logo=Lua" alt="Lua" />
-    <img src="https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/-Git-000?&logo=Git" alt="Git" />
-</p>
+    <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1" alt="MySQL" />
+    <img src="https://img.shields.io/badge/-Electron-000?&logo=Electron&logoColor=47848F" alt="Electron" />
+    <img src="https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B" alt="Flutter" />
+    <img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js&logoColor=339933" alt="Node.js" />
+    <img src="https://img.shields.io/badge/-Lua-000?&logo=Lua&logoColor=2C2D72" alt="Lua" />
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS&logoColor=38B2AC" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032" alt="Git" />
+  </p>
 
+  <br />
 
+  <a href="https://discord.com" target="_blank" style="text-decoration: none;">
+    <button style="
+      background-color: #5865F2;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+    ">Discord</button>
+  </a>
 </div>
