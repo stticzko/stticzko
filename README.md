@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React" />
     <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL" alt="MySQL" />
     <img src="https://img.shields.io/badge/-Electron-000?&logo=Electron" alt="Electron" />
+    <img src="https://img.shields.io/badge/-Flutter-000?&logo=Flutter" alt="Flutter" />
     <img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js" alt="Node.js" />
     <img src="https://img.shields.io/badge/-Lua-000?&logo=Lua" alt="Lua" />
     <img src="https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS" alt="Tailwind CSS" />
