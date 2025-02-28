@@ -18,18 +18,4 @@
     <img src="https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS&logoColor=38B2AC" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032" alt="Git" />
   </p>
-
-  <br />
-
-  <a href="https://discord.com" target="_blank" style="text-decoration: none;">
-    <button style="
-      background-color: #5865F2;
-      color: white;
-      border: none;
-      padding: 10px 20px;
-      font-size: 16px;
-      border-radius: 5px;
-      cursor: pointer;
-    ">Discord</button>
-  </a>
 </div>
