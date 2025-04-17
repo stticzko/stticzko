@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26" alt="HTML5" />
     <img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6" alt="CSS3" />
     <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=3178C6" alt="TypeScript" />
     <img src="https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1" alt="MySQL" />
     <img src="https://img.shields.io/badge/-Electron-000?&logo=Electron&logoColor=47848F" alt="Electron" />
