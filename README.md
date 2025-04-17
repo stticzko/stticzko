@@ -18,5 +18,6 @@
     <img src="https://img.shields.io/badge/-Lua-000?&logo=Lua&logoColor=2C2D72" alt="Lua" />
     <img src="https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS&logoColor=38B2AC" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032" alt="Git" />
+    <img src="https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624" alt="Linux" />
   </p>
 </div>
