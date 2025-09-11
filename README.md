@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Mhm... Frontend?</h1>
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtucm1qNTRmcHNpNGF4YXM1bmtieTJhNTJsZHc3eHljbTE3MnVvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CHc9dLQVQOAXm/giphy.gif" alt="" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJuanA4N25pOG4yYXF2ZWsxazdkNmt0OHM1Y3poMjRkcWcycHU4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGuaSEpfDmJSwg0/giphy.gif" alt="" />
 
   <h2>Technologies & Frameworks</h2>
 
